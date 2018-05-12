@@ -1,0 +1,28 @@
+_repo: '---_24316'
+_version: 0.1.0
+alternative_title: Hua Jian Ji
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zhao, Chongzuo, active 934-965
+    alias: 趙崇祚
+    gutenberg_agent_id: '26396'
+    url: http://www.gutenberg.org/2009/agents/26396
+description: ''
+gutenberg_issued: '2008-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24316'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ci (Chinese poetry)'
+- !lcsh 'Chinese poetry -- Five dynasties and the Ten kingdoms, 907-979'
+- !lcsh 'Chinese poetry -- Tang dynasty, 618-907'
+- !lcc 'PL'
+title: 花間集
+url: http://www.gutenberg.org/ebooks/24316
